@@ -1,0 +1,23 @@
+---
+title: "User Guide for Calculate the Mean Game"
+author: "Chung Cher Tee"
+date: "Saturday, October 24, 2015"
+output: html_document
+---
+
+## Objective:
+#### The computer will randomly generate a set of either 10 or 12 numbers. You are suppose to calculate the mean of the generated numbers by mental calculation. 
+
+## Logic of the game:
+#### This simple game allows user to input 2 sets of 2 integer numbers. With each set of 2 integer numbers you input, the computer will calculate the new mean. The new mean will therefore be base on the 2 additional numbers you have input and the original randomly generated sets of numbers by the computer.
+
+
+## How to play
+#### At the first set, input 2 integer numbers by increasing the numuric numbers. Press GO to generate the first new calculated mean by the computer. 
+#### Do the same for the 2nd set.
+#### Mentally calculate the original mean. You now have 2 equations to allow you to calculate the original mean and also find out whether it is a 10 or 12 random numbers that was generated.
+
+#### Guess the mean by inputing the numeric numbers and press Go.
+#### To see the plot, press the GO button at the Plot Ramdom Sample button.
+
+### Enjoy!
